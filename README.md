@@ -5,3 +5,5 @@
 * Help to make more informed credit scoring decisions and reduce the rate of defaulters.
 
 Here I am  using Logistic regression to predict the loan defaulter in R using key features like Age, Education, Income, Credit debt, etc
+
+**See My Full Article On gfg:** https://www.geeksforgeeks.org/predicting-loan-default-in-r/?itm_source=auth&itm_medium=contributions&itm_campaign=articles
