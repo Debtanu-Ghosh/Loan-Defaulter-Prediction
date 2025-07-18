@@ -1,4 +1,5 @@
 # Loan-Defaulter-Prediction
+-------------------------------------------
 ### Objective:
 * The goal of this “loan defaulter prediction” is to detect the probability of defaulter rate using Machine learning techniques.
 * I understand the customer’s behavior before giving the loan.
